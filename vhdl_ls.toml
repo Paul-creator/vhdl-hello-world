@@ -1,0 +1,6 @@
+
+[files]
+files = ["src/**/*.vhd"]
+
+[libraries]
+
